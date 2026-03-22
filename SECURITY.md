@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any of Clube Desportiv
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, please send an email to `security [at] cdinfante [dot] pt`.
+Instead, please send an email to `security [at] cdinfante [dot] org`.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
