@@ -60,7 +60,7 @@ sociais, ou atuar como representante nomeado num evento online ou offline.
 ## Cumprimento
 
 Os casos de comportamento abusivo, de assédio ou de outro modo inaceitável podem ser
-comunicados contactando a equipa do projeto `conduct [at] cdinfante [dot] pt`. Todas as
+comunicados contactando a equipa do projeto `conduct [at] cdinfante [dot] org`. Todas as
 queixas serão analisadas e investigadas de forma rápida e justa.
 
 A equipa do projeto é obrigada a manter a confidencialidade em relação ao elemento
